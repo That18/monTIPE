@@ -30,7 +30,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 2 mars 2023 : apprentissage de l'existence de l'effet magnus et début d'étude; Reflexion à une simulation des effets au billard.
 - Jeudi 9 mars 2023 : présentation du sujet aux proffeseurs encadrants; dévellopenment des idées de présentation.
 - Jeudi 16 mars 2023 : reflexion sur un sujet de secours.
-- Jeudi 23 mars 2023 :
+- Jeudi 23 mars 2023 : recherche de thèses liées au billard et à l'effet magnus
 -
 -
 -
