@@ -26,8 +26,11 @@ Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés renc
 Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus. Création du dépot GitHub.
--
--
+- Jeudi 9 février 2023 : recherche de sujet. Début des recherches sur le billard et ses effets.
+- Jeudi 2 mars 2023 : apprentissage de l'existence de l'effet magnus et début d'étude; Reflexion à une simulation des effets au billard.
+- Jeudi 9 mars 2023 : présentation du sujet aux proffeseurs encadrants; dévellopenment des idées de présentation.
+- Jeudi 16 mars 2023 : reflexion sur un sujet de secours.
+- Jeudi 23 mars 2023 :
 -
 -
 -
