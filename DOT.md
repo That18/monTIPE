@@ -31,7 +31,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 9 mars 2023 : présentation du sujet aux proffeseurs encadrants; dévellopenment des idées de présentation.
 - Jeudi 16 mars 2023 : reflexion sur un sujet de secours.
 - Jeudi 23 mars 2023 : recherche de thèses liées au billard et à l'effet magnus
-- Jeudi 30 mars 2023 : 
+- Jeudi 30 mars 2023 : recherches sur les équations liées à l'effet magnus
 -
 -
 -
