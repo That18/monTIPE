@@ -11,3 +11,4 @@ http://utbmjb.chez-alice.fr/MathC2+/parabole_effet_magnus.pdf
 http://www.regispetit.fr/billard.htm#livres
 https://www.supreme.fr/technique-du-billard/
 (Michel Foulon, Lille 1)
+https://www.theses.fr/1999POIT2308#
