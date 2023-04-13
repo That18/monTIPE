@@ -33,7 +33,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 23 mars 2023 : recherche de thèses liées au billard et à l'effet magnus
 - Jeudi 30 mars 2023 : recherches sur les équations liées à l'effet magnus
 - Jeudi 6 avril 2023 : lecture de l'étude mathématique de la parabole de l'effet magnus 
-- 
+- Jeudi 13 avril 2023 : reflexion sur la simulation, objectifs, problèmes et difficultés
 - 
 -
 -
