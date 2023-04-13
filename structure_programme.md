@@ -1,0 +1,4 @@
+Interface : s'ouvre sur un un plan sur une boule de billard avec 9 possibilités de tappe. (cf. dessin supreme effets billard)
+Quand on clique dézoome sur une (pseudo-)table de billard et animation de la trajectoire, voir choc avec une autre boule pour voir le comportement des deux, après l'impact (essaye de modification de la puissance de frappe). Trajectoire calculée en fonction de paramètres, point d'impact, vitesse, angle de frappe (puissance, calcul du ralentissement (approximatif) donc rebond possible sur les bandes). Sets de paramètres enregistrés, lancés selon le test d'effet choisi (et de la vitesse/puissance). 
+Calcul d'angles ( paralelles optique)
+Problème: interface -> apprendre, langage -> se renseigner sur les possibilités du C ou OCaml, réglages -> aquisition sur l'interface, mini application ?
