@@ -13,4 +13,5 @@ https://www.supreme.fr/technique-du-billard/
 (Michel Foulon, Lille 1)
 https://www.theses.fr/1999POIT2308#
 ![image](https://user-images.githubusercontent.com/115954703/236227433-a3d8d7d7-f3c6-4831-8996-7b4f52797216.png)
+![image](https://user-images.githubusercontent.com/115954703/236238748-6a825632-b64c-4836-b2cb-ad7c3c847d19.png)
 Le billard, Edouard Horemans ?
