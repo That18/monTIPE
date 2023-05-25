@@ -16,3 +16,4 @@ https://www.theses.fr/1999POIT2308#
 ![image](https://user-images.githubusercontent.com/115954703/236238748-6a825632-b64c-4836-b2cb-ad7c3c847d19.png)
 Le billard, Edouard Horemans ?
 http://www.regispetit.fr/bil_int.htm#int3
+https://www.hobbesworld.com/livres/billardtheoriedujeu.php
