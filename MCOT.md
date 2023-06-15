@@ -8,7 +8,7 @@
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.Physique (études leffet rétro en détail)
+1.Physique (études de l'effet rétro en détail)
 2.Informatique (smulation de présentation des différents effets)
 3.
 
@@ -21,9 +21,9 @@
 
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
-1.
-2.
-3.
+1.Trajectoires
+2.Effets
+3.Simulation
 4.
 5.
 
@@ -37,16 +37,16 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 ## Objectifs du TIPE (max 100 mots)
 
-1.
-2.
+1. Présentaion physique des effets, équations mécaniques 
+2. Simulation présentanttous les effets
 3.
 
 
 ## Références bibliographiques (2 à 10 références)
 
 1. (Billard - Théorie du jeu de Regis Petit)
-2. 
-3. 
+2. Vidéo c'est pas sorcier sur le billard
+3. Exercice fourni par M.Rabaud-Casoli sur l'effet rétro
 4. 
 5. 
 6. 
