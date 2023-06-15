@@ -4,7 +4,7 @@
 Interêt personnel pour le billard, complexité du jeu quand on maîtrise la technique. Interrogation sur la façon dont fonctionne les effets.
 
 ## Ancrage du sujet au thème de l'année
-Le billard est un sport de précision, mais aussi un loisir convivial. (comme indiquer sur https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0hOqGy8X_AhUCXaQEHa4gAh8QFnoECBMQAw&url=https%3A%2F%2Fwww.sports.gouv.fr%2Fbillard-americain-215%23%3A~%3Atext%3DLe%2520billard%2520est%2520un%2520sport%2520de%2520pr%25C3%25A9cision%252C%2520mais%2520aussi%2520un%2Cla%2520tactique%2520et%2520la%2520concentration.&usg=AOvVaw2r7kUZvE3ouQQBYFox0tbN )
+Le billard est un sport de précision, mais aussi un loisir convivial. (comme indiquer sur https://www.sports.gouv.fr/billard-americain-215#:~:text=Le%20billard%20est%20un%20sport%20de%20précision%2C%20mais%20aussi%20un,la%20tactique%20et%20la%20concentration )
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
