@@ -1,4 +1,4 @@
-# Titre
+# Le billard nous fait de l'effet : étude physique d'un choc
 
 ## Motivations pour le choix du sujet
 
@@ -8,8 +8,8 @@
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.
-2.
+1.Physique (études leffet rétro en détail)
+2.Informatique (smulation de présentation des différents effets)
 3.
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
@@ -44,7 +44,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 ## Références bibliographiques (2 à 10 références)
 
-1. 
+1. (Billard - Théorie du jeu de Regis Petit)
 2. 
 3. 
 4. 
