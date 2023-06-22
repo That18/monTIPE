@@ -8,8 +8,8 @@ Le billard est un sport de précision, mais aussi un loisir convivial. (comme in
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.Physique (études de l'effet rétro en détail)
-2.Informatique (smulation de présentation des différents effets)
+1.Physique (matière et mécanique)
+2.Informatique (pratique)
 3.
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
@@ -24,8 +24,8 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 1.Trajectoires
 2.Effets
 3.Simulation
-4.
-5.
+4.Choc
+5.Positionement
 
 
 ## Bibliographie commentée (max 650 mots)
@@ -37,8 +37,8 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 ## Objectifs du TIPE (max 100 mots)
 
-1. Présentaion physique des effets, équations mécaniques 
-2. Simulation présentanttous les effets
+1. Présentaion physique d'un choc puis de l'effet rétro, équations mécaniques 
+2. Simulation présentant tous les effets
 3.
 
 
