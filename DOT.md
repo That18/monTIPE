@@ -36,6 +36,6 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 13 avril 2023 : reflexion sur la simulation, objectifs, problèmes et difficultés
 - Jeudi 4 mai 2023 : recherche sur le cas de base d'un choc entre boules de billard, angle de chaque bille après impact
 - Jeudi 25 mai 2023 : recherche du livre _Billard, théorie du jeu_ de Regis Petit, pose de l'etude physique d'un choc simple entre deux billes
--
+- Jeudi 15 juin 2023 : remplissage du MCOT
 -
 
