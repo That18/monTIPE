@@ -10,7 +10,7 @@ Le DOT ne doit pas être analogue à un plan, ni fournir des résultats ou des i
 
 Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés rencontrées, la manière dont elles ont été surmontées ou non, les rebonds ou inflexions dans la démarche, soulignant ainsi la progression effective du travail, permettant aux examinateurs d'avoir une meilleure lisibilité du «cheminement» du candidat.
 
-1. 
+1. Difficulté d'avoir accès au livre de Regis Petit
 2. 
 3. 
 4. 
