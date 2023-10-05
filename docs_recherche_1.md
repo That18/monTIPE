@@ -1,6 +1,6 @@
 Sujet principal : billard, étude des cas de base : énérgie, moment cinétique si choc décentré
 https://www.supreme.fr/blog/effets/  
-effet magnus
+effet magnus non étudié, seulement sur un plan, frottements de l'air negligeables.
 https://www.youtube.com/watch?v=fZV6z7HpkvI
 https://www.youtube.com/@jean-michelfray2246/videos
 projet de présentation: présentation des effets (support programme), étude en profondeur de l'effet rétro (effet magnus, frottements ) et comparaisons aux autres effets.
