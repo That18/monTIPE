@@ -1,6 +1,5 @@
 Sujet principal : billard, étude des cas de base : énérgie, moment cinétique si choc décentré
 https://www.supreme.fr/blog/effets/  
-http://laurent.buchard.pagesperso-orange.fr/newphys.html
 effet magnus
 https://www.youtube.com/watch?v=fZV6z7HpkvI
 https://www.youtube.com/@jean-michelfray2246/videos
