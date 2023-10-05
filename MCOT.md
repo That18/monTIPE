@@ -1,7 +1,7 @@
 # Le billard nous fait de l'effet : étude physique d'un choc
 
 ## Motivations pour le choix du sujet
-Interêt personnel pour le billard, complexité du jeu quand on maîtrise la technique. Interrogation sur la façon dont fonctionne les effets.
+Interêt personnel pour le billard, complexité du jeu et maîtrise la technique. Interrogation sur la façon dont fonctionne les effets.
 
 ## Ancrage du sujet au thème de l'année
 Le billard est un sport de précision, mais aussi un loisir convivial. (comme indiqué sur https://www.sports.gouv.fr/billard-americain-215#:~:text=Le%20billard%20est%20un%20sport%20de%20précision%2C%20mais%20aussi%20un,la%20tactique%20et%20la%20concentration )
