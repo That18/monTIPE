@@ -37,7 +37,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 ## Objectifs du TIPE (max 100 mots)
 
-1. Présentaion physique d'un choc puis de l'effet rétro, équations mécaniques 
+1. Présentation physique d'un choc puis de l'effet rétro, équations mécaniques 
 2. Simulation présentant tous les effets
 3.
 
