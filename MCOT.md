@@ -46,7 +46,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 1. Billard - Théorie du jeu de Regis Petit
 2. Vidéo c'est pas sorcier sur le billard
-3. Exercice fourni par M.Rabaud-Casoli sur l'effet rétro
+3. (Exercice fourni par M.Rabaud-Casoli sur l'effet rétro)
 4. 
 5. 
 6. 
