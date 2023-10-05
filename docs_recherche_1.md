@@ -17,3 +17,4 @@ https://www.theses.fr/1999POIT2308#
 Le billard, Edouard Horemans ?
 http://www.regispetit.fr/bil_int.htm#int3
 https://www.hobbesworld.com/livres/billardtheoriedujeu.php
+Demande club de La Chapelle d'Armentmères 7/10 portes ouvertes
