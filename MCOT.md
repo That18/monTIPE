@@ -45,7 +45,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 ## Références bibliographiques (2 à 10 références)
 
 1. Billard - Théorie du jeu de Regis Petit
-2. Informations concrètes tirées de l'experience de joueur de billard français du club Chapellois
+2. Informations concrètes tirées de l'experience de joueurs de billard français du club Chapellois
 3. site supreme.fr
 4. Vidéo c'est pas sorcier sur le billard
 5. (Exercice fourni par M.Rabaud-Casoli sur l'effet rétro)
