@@ -15,3 +15,5 @@ http://www.regispetit.fr/bil_int.htm#int3
 https://www.hobbesworld.com/livres/billardtheoriedujeu.php
 Demande club de La Chapelle d'Armentmères 7/10 portes ouvertes ✔️
 massé change la trajectoire dans tous les cas, coulé et retro pas quand ligne droite, hauteur de frappe influence mais surtout l'angle de choc pour les effets coulé et rétro, et les chocs avec les bandes peuvent donné un effet.
+https://www.letelegramme.fr/t-plus/avec-son-appli-poolshot-michel-le-neillon-revolutionne-l-apprentissage-du-billard-4039899.php
+http://www.poolshot.org/indexfr.php
