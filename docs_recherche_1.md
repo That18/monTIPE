@@ -12,6 +12,7 @@ https://www.supreme.fr/technique-du-billard/
 (Michel Foulon, Lille 1)
 ![image](https://user-images.githubusercontent.com/115954703/236227433-a3d8d7d7-f3c6-4831-8996-7b4f52797216.png)
 ![image](https://user-images.githubusercontent.com/115954703/236238748-6a825632-b64c-4836-b2cb-ad7c3c847d19.png)
+https://billard-billiards.net/auteur.htm
 Le billard, Edouard Horemans ?
 http://www.regispetit.fr/bil_int.htm#int3
 https://www.hobbesworld.com/livres/billardtheoriedujeu.php
