@@ -14,4 +14,4 @@ Le billard, Edouard Horemans ?
 http://www.regispetit.fr/bil_int.htm#int3
 https://www.hobbesworld.com/livres/billardtheoriedujeu.php
 Demande club de La Chapelle d'Armentmères 7/10 portes ouvertes ✔️
-massé change la trajectoire dans tous les cas, coulé et retro pas quand ligne droite, hauteur de frappe influence, et les chocs avec les bandes peuvent donné un effet.
+massé change la trajectoire dans tous les cas, coulé et retro pas quand ligne droite, hauteur de frappe influence mais surtout l'angle de choc pour les effets coulé et rétro, et les chocs avec les bandes peuvent donné un effet.
