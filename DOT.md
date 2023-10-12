@@ -37,5 +37,6 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 4 mai 2023 : recherche sur le cas de base d'un choc entre boules de billard, angle de chaque bille après impact
 - Jeudi 25 mai 2023 : recherche du livre _Billard, théorie du jeu_ de Regis Petit, pose de l'etude physique d'un choc simple entre deux billes
 - Jeudi 15 juin 2023 : remplissage du MCOT
--
+- Jeudi 5 octobre 2023 : recherche de clubs de billard près d'Armentières
+- Samedi 7 octobre 2023 : rencontre avec le club de billard Chappellois et demande pour enregistrement vidéo d'effets 
 
