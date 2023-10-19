@@ -18,3 +18,4 @@ massé change la trajectoire dans tous les cas, coulé et retro pas quand ligne 
 https://www.letelegramme.fr/t-plus/avec-son-appli-poolshot-michel-le-neillon-revolutionne-l-apprentissage-du-billard-4039899.php
 http://www.poolshot.org/indexfr.php
 https://parlonssciences.ca/ressources-pedagogiques/les-stim-expliquees/comment-la-physique-peut-taider-a-mieux-jouer-au
+https://www.abcbac.com/ressource/choc-elastique-au-billard
