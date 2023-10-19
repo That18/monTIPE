@@ -22,3 +22,4 @@ https://www.abcbac.com/ressource/choc-elastique-au-billard
 https://femto-physique.fr/mecanique/physique-des-collisions.php
 https://www.ift.ulaval.ca/uploads/tx_tacticboursedepartement/Livrable.pdf
 https://forums.futura-sciences.com/tpe-tipe-autres-travaux/80114-modelisation-avancee-frottement-une-boule-de-billard.html
+https://www.real-world-physics-problems.com/physics-of-billiards.html
