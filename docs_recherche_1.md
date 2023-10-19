@@ -21,4 +21,4 @@ https://parlonssciences.ca/ressources-pedagogiques/les-stim-expliquees/comment-l
 https://www.abcbac.com/ressource/choc-elastique-au-billard
 https://femto-physique.fr/mecanique/physique-des-collisions.php
 https://www.ift.ulaval.ca/uploads/tx_tacticboursedepartement/Livrable.pdf
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjPlvH8roKCAxUIVaQEHS8nB1YQFnoECCAQAQ&url=https%3A%2F%2Fforums.futura-sciences.com%2Ftpe-tipe-autres-travaux%2F80114-modelisation-avancee-frottement-une-boule-de-billard.html&usg=AOvVaw2IG4YH9G2zt1cVvAOBjH3D&opi=89978449
+https://forums.futura-sciences.com/tpe-tipe-autres-travaux/80114-modelisation-avancee-frottement-une-boule-de-billard.html
