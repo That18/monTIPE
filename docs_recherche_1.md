@@ -19,3 +19,4 @@ https://www.letelegramme.fr/t-plus/avec-son-appli-poolshot-michel-le-neillon-rev
 http://www.poolshot.org/indexfr.php
 https://parlonssciences.ca/ressources-pedagogiques/les-stim-expliquees/comment-la-physique-peut-taider-a-mieux-jouer-au
 https://www.abcbac.com/ressource/choc-elastique-au-billard
+https://femto-physique.fr/mecanique/physique-des-collisions.php
