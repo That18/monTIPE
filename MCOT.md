@@ -39,7 +39,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 1. Présentation physique d'un choc puis de l'effet rétro, équations mécaniques 
 2. Simulation présentant tous les effets
-3.
+3. Analyse de vidéos pour appuyer la théorie
 
 
 ## Références bibliographiques (2 à 10 références)
