@@ -14,11 +14,11 @@ Le billard est un sport de précision, mais aussi un loisir convivial. Il peut d
 
 ## Mots-clés 
 
-1.Trajectoires
-2.Effets
-3.Simulation
-4.Choc
-5.Positionement
+1.Billard
+2.Trajectoires
+3.Effets
+4.Simulation
+5.Tests
 
 
 ## Bibliographie commentée 
@@ -26,19 +26,19 @@ Le livre de Regis Petit, _Billard, Théorie du jeu_ est un ouvrage très complet
 
 
 ## Problématique retenue 
-Comment fonctionne un effet au billard en théorie physique, en pratique, et en simulation simple ? 
+Comment représenter un effet au billard en théorie physique, en pratique, et en simulation simple ? 
 
 ## Objectifs du TIPE 
 
 1. Présentation physique d'un choc puis de l'effet rétro, équations mécaniques 
-2. Simulation présentant tous les effets
-3. Analyse de vidéos pour appuyer la théorie
+2. Simulation présentant plusieurs effets
+3. Analyse de vidéos pour obtenir des donées concrètessur les rotations des billes pour appuyer la théorie
 
 
 ## Références bibliographiques 
 
 1. Billard - Théorie du jeu de Regis Petit
-2. Informations concrètes tirées de l'experience de joueurs de billard français du club Chapellois
+2. Informations concrètes tirées de l'experience de joueurs de billard français du club Chapellois, transmise par discussion  
 3. site supreme.fr
 4. Vidéo c'est pas sorcier sur le billard
 5. (Exercice fourni par M.Rabaud-Casoli sur l'effet rétro)
