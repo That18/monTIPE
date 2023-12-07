@@ -16,9 +16,9 @@ Le billard est un sport de précision, mais aussi un loisir convivial. Il peut d
 
 1.Billard
 2.Trajectoires
-3.Effets
-4.Simulation
-5.Tests
+3.Billes
+4.Effets
+5.Simulation
 
 
 ## Bibliographie commentée 
