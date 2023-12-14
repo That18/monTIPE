@@ -6,7 +6,7 @@ Interêt personnel pour le billard, complexité du jeu et maîtrise la technique
 ## Ancrage du sujet au thème de l'année
 Le billard est un sport de précision, mais aussi un loisir convivial. Il peut donc être considéré à la fois comme un sport et comme un jeu. 
 
-## Positionnement thématique (par ordre de priorité décroissante)
+## Positionnement thématique 
 
 1.Physique (mécanique)
 2.Physiqe (théorique)
