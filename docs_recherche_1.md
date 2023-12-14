@@ -25,4 +25,5 @@ https://forums.futura-sciences.com/tpe-tipe-autres-travaux/80114-modelisation-av
 https://www.real-world-physics-problems.com/physics-of-billiards.html
 https://www.ffbillard.com/pages/le-materiel-25.html#:~:text=La%20hauteur%20du%20billard%20entre,sont%20appelées%20billes%20de%20but.
 https://data.epo.org/publication-server/pdf-document/EP96110411NWA1.pdf?PN=EP0816707%20EP%200816707&iDocId=1591641&iepatch=.pdf
-experience : poulie au bord du drap, avec corde reliant bille et poids avec poulie, filmer l'accélération pour trouver le coeff
+
+experience : poulie au bord du drap, avec corde reliant bille et poids avec poulie, filmer l'accélération pour trouver le coeff laine-résine phélonique
