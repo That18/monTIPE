@@ -26,7 +26,7 @@ Le livre de Regis Petit, _Billard, Théorie du jeu_ est un ouvrage très complet
 
 
 ## Problématique retenue 
-Comment représenter un effet au billard en théorie physique, en pratique, et en simulation simple ? 
+Comment représenter un effet au billard en théorie physique et en simulation simple ? 
 
 ## Objectifs du TIPE 
 
