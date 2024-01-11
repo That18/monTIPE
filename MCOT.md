@@ -22,17 +22,17 @@ Le billard est un sport de précision, mais aussi un loisir convivial. Il peut d
 
 
 ## Bibliographie commentée 
-Le livre de Regis Petit, _Billard, Théorie du jeu_ est un ouvrage très complet sur le billard français et son analyse physique. Il a été écrit avec la participation de la Fédération française de billard. Il contient bon nombre de formule servant aux calculs théoriques et présente également une partie dédiée aux simulation informatique.
+Le livre de Regis Petit, _Billard, Théorie du jeu_ est un ouvrage très complet sur le billard français et son analyse physique. Il a été écrit avec la participation de la Fédération française de billard. Il contient bon nombre de formule servant aux calculs théoriques et présente également une partie dédiée aux simulation informatique. Les analyses du côté physique débutent avec des cas simples, et des hypothèses permettant des calculs simplifiés. Les chapitres suivants approfondissent l'étude, avec des situations plus précises, l'explication de certains effets, en fonction de l'angle de frappe et du point d'impact. 
 
 
-## Problématique retenue 
+## Problématique 
 Comment représenter un effet au billard en théorie physique et en simulation simple ? 
 
-## Objectifs du TIPE 
+## Mes objectifs
 
 1. Présentation physique d'un choc puis de l'effet rétro, équations mécaniques 
-2. Simulation présentant plusieurs effets
-3. Analyse de vidéos pour obtenir des donées concrètessur les rotations des billes pour appuyer la théorie
+2. Simulation présentant plusieurs effets, par le choix de l'endroit du coup sur la bille
+3. Analyse de vidéos, réalisées dans un club de billard français, pour obtenir des donées concrètes sur les rotations des billes pour appuyer la théorie
 
 
 ## Références bibliographiques 
@@ -41,5 +41,4 @@ Comment représenter un effet au billard en théorie physique et en simulation s
 2. Informations concrètes tirées de l'experience de joueurs de billard français du club Chapellois, transmise par discussion  
 3. site supreme.fr
 4. Vidéo c'est pas sorcier sur le billard
-5. (Exercice fourni par M.Rabaud-Casoli sur l'effet rétro)
 
