@@ -1,4 +1,4 @@
-# Le billard nous fait de l'effet : étude physique d'un choc
+# Le billard nous fait de l'effet : étude physique d'un choc en tre deux billes
 
 ## Motivations pour le choix du sujet
 Interêt personnel pour le billard, complexité du jeu et maîtrise la technique. Interrogation sur la façon dont fonctionne les effets.
