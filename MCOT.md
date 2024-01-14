@@ -38,7 +38,6 @@ Comment représenter un effet au billard en théorie physique et en simulation s
 ## Références bibliographiques 
 
 1. Billard - Théorie du jeu de Regis Petit
-2. Informations concrètes tirées de l'experience de joueurs de billard français du club Chapellois, transmise par discussion  
-3. site supreme.fr
-4. Vidéo c'est pas sorcier sur le billard
-
+2. THÉORIE MATHÉMATIQUE DES EFFETS DU JEU DE BILLARD, PAR G. CORIOLIS, https://gallica.bnf.fr/ark:/12148/bpt6k29318f/texteBrut
+3. Informations concrètes tirées de l'experience de joueurs de billard français du club Chapellois, transmise par discussion  
+4. site supreme.fr
