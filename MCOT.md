@@ -26,7 +26,7 @@ Le livre de Regis Petit, _Billard, Théorie du jeu_ est un ouvrage très complet
 
 
 ## Problématique 
-Comment représenter un effet au billard en théorie physique et en simulation simple ? 
+Comment représenter un effet au billard en théorie physique et le représanter simplement par l'informatique ? 
 
 ## Mes objectifs
 
