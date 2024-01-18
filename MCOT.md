@@ -37,4 +37,4 @@ Comment représenter un effet au billard en théorie physique et le représanter
 ## Références bibliographiques 
 
 1. Billard - Théorie du jeu de Regis Petit
-2. THÉORIE MATHÉMATIQUE DES EFFETS DU JEU DE BILLARD, PAR G. CORIOLIS, https://gallica.bnf.fr/ark:/12148/bpt6k29318f/texteBrut
+2. THÉORIE MATHÉMATIQUE DES EFFETS DU JEU DE BILLARD, PAR G. CORIOLIS
